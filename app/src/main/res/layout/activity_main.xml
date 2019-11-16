@@ -163,20 +163,4 @@
             android:orientation="vertical" />
     </HorizontalScrollView>
 
-    <ImageView
-        android:id="@+id/imageView26"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        app:srcCompat="@drawable/__0001"
-        tools:layout_editor_absoluteX="80dp"
-        tools:layout_editor_absoluteY="232dp" />
-
-    <ImageView
-        android:id="@+id/imageView10"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        app:srcCompat="@drawable/__0006"
-        tools:layout_editor_absoluteX="195dp"
-        tools:layout_editor_absoluteY="233dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
